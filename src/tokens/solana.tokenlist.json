@@ -1,4 +1,14 @@
 {
+ "chainId": 101,
+ "address": "Cj6svBbJDyYbQg51cGrGbqh5Epp72APjDeik3fjTb2a7",
+ "symbol": "SON ",
+ "name": "Solonature",
+ "decimals": 8,
+ "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WMY64kKN9WFPodCSg7RO3pX2cWOHezukZA&usqp=CAU",
+ "tags": [],
+ "extensions" {
+},
+{
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
